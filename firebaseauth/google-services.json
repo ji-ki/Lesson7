@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871238067497",
+    "project_id": "lesson7-c54ec",
+    "storage_bucket": "lesson7-c54ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871238067497:android:d0fa10392c6c9322ec4338",
+        "android_client_info": {
+          "package_name": "ru.mirea.gilyazoivaer.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDexg_F0icxSKl6n0XTHN9SdM1SX2daIAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
